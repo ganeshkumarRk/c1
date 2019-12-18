@@ -5,4 +5,4 @@ if a=="stc" and b=="123":
 else :
     print("welcome to cts")
 print ("im using git")
-
+print ("im a new user shiva")
