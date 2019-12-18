@@ -4,3 +4,5 @@ if a=="stc" and b=="123":
     print("welcome to stc")
 else :
     print("welcome to cts")
+print ("im using git")
+
