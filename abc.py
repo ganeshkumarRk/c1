@@ -6,3 +6,7 @@ else :
     print("welcome to cts")
 print ("im using git")
 print ("im a new user shiva")
+
+print("thala")
+print("str")
+print("i am str")
